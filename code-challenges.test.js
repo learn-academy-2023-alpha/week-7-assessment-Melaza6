@@ -44,7 +44,7 @@ const itIs42 = (array) =>{
     let cap = nameKey.map((vals) => vals.charAt(0).toUpperCase() + vals.substring(1)).join(" ")
     return `${cap} is ${values.occupation}`
  })
- return arr  
+  return arr  
  
 } 
 
